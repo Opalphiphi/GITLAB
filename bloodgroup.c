@@ -6,11 +6,11 @@ void main()
   do
   {
 
-    printf("Opal What is Opal your Name? ");
+    printf("What is Opal your Name?o ");
     scanf("%s", Name);
     do
     {
-      printf("Opal What is your blood group [A, B, AB, or O]? ");
+      printf("What is your blood group [A, B, AB, or O]?o ");
 
       scanf("%s", G);
 
