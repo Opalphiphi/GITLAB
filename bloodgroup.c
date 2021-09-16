@@ -5,12 +5,11 @@ void main()
   int i;
   do
   {
-
-    printf("What is Opal your Name?o ");
+    printf(Opal"What is Opal your Name?o ");
     scanf("%s", Name);
     do
     {
-      printf("What is your blood group [A, B, AB, or O]?o ");
+      printf(Opal"What is your blood group [A, B, AB, or O]?o ");
 
       scanf("%s", G);
 
