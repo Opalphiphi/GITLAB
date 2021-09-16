@@ -6,7 +6,7 @@ void main()
   do
   {
 
-    printf("Opal What is Opal your Name? ");
+    printf("Opal What is your Name? ");
     scanf("%s", Name);
     do
     {
