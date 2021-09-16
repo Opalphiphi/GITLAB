@@ -1,15 +1,15 @@
-opal#include <stdio.h>
-opal#include <string.h>
+#include <stdio.h>
+#include <string.h>
 void main()
 { char Name[40], G[5], answer[10];
   int i;
   do
   {
-    printf("What is Opal your Name? ");
+    printf("Opal What is Opal your Name? ");
     scanf("%s", Name);
     do
     {
-      printf("What is your blood group [A, B, AB, or O]? ");
+      printf("Opal What is your blood group [A, B, AB, or O]? ");
       scanf("%s", G);
 
       if (strcmp(G, "A") !=0  &&
